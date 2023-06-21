@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/camera.png</file>
+        <file>images/IMGSET.png</file>
+        <file>images/photo.bmp</file>
+        <file>images/IC.ico</file>
+    </qresource>
+</RCC>
