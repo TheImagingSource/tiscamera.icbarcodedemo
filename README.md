@@ -66,4 +66,6 @@ Gstreamer runs in a different thread, than the QT GUI. Therefore, the barcode re
 ### Graphic Overlay
 The graphical display of a red frame around the overlay is done with the GSteamer [rsvgoverlay](https://gstreamer.freedesktop.org/documentation/rsvg/rsvgoverlay.html?gi-language=c) element. It receives an XML string which contains the graphic description.
 
+## Questions and Contact
+For questions please contact us at https://www.theimagingsource.com/en-us/company/contact/. 
 
